@@ -8,5 +8,7 @@ Pandas
 Numpy
 Jupyter
 Seaborn 
+category_encoders
+
 
 Dataset found in Kaggle: https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod
